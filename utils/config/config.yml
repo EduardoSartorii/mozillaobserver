@@ -1,0 +1,4 @@
+debug: False
+url: "https://observatory.mozilla.org/analyze/www.somosagility.com.br"
+path_webdriver: "utils/webdriver/geckodriver"
+headless: True
